@@ -14,6 +14,7 @@ const About = () => {
   }, []);
   return (
     <>
+    
       <h2 className="head-text">
         i know that <span>Good design</span>
         <br /> means <span>Good business</span>
