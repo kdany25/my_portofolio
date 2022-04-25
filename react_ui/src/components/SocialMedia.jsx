@@ -8,11 +8,12 @@ const SocialMedia = () => (
       <BsTwitter />
     </div>
     <div>
-      <FaFacebookF />
-    </div>
-    <div>
       <BsInstagram />
     </div>
+    <div>
+      <FaFacebookF />
+    </div>
+  
   </div>
 );
 
