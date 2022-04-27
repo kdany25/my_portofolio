@@ -1,4 +1,5 @@
 import React from 'react';
+//icons
 import { BsTwitter, BsInstagram } from 'react-icons/bs';
 import { FaFacebookF } from 'react-icons/fa';
 
